@@ -1,0 +1,9 @@
+# Virtualbox shared folder files
+*.db
+*.db:encryptable
+
+# Solidworks session files
+*~$*
+
+# Dolphin .directory files
+.directory
